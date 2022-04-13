@@ -1,0 +1,26 @@
+{
+    "name": "mikeside/batch_account",
+    "type": "roundcube-plugin",
+    "description": "Roundcube Create email accounts in batches plugin",
+    "homepage": "https://github.com/mikeside/roundcube_batch_account",
+    "license": "AGPLv3",
+    "version": "1.0",
+    "keywords": [
+        "roundcube create email",
+        "roundcube batch create email",
+        "roundcube batch create account",
+        "roundcube batch account",
+        "batch account"
+    ],
+    "authors": [
+        {
+            "name": "Mike",
+            "email": "mikehub@aliyun.com",
+            "role": "Lead"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}

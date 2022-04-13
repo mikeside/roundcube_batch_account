@@ -1,0 +1,13 @@
+<?php
+
+// auth account
+$config['auth_account'] = 'postmaster';
+
+// vmail database
+$config['vmail_db_dsn'] = 'mysqli://root:root@127.0.0.1:3306/vmail';
+
+// passwd minimum length
+$config['password_minimum_length'] = 6;
+
+// initial password
+$config['password_initial'] = '123456';
