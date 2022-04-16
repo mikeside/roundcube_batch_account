@@ -4,7 +4,6 @@
     "description": "Roundcube Create email accounts in batches plugin",
     "homepage": "https://github.com/mikeside/roundcube_batch_account",
     "license": "AGPL-3.0",
-    "version": "1.0",
     "keywords": [
         "roundcube create email",
         "roundcube batch create email",
