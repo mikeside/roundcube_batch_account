@@ -11,3 +11,7 @@ $config['password_minimum_length'] = 6;
 
 // initial password
 $config['password_initial'] = '123456';
+
+// allow mail account domain
+// `array type` example: postmaster@mikehub.cn only need `mikehub.cn` domain
+// $config['domains'] = [];
